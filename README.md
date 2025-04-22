@@ -42,9 +42,9 @@
 ![Screenshot 2025-04-22 103356](https://github.com/user-attachments/assets/19805953-7817-4d19-b286-ef5c1e367cbf)
 ![Screenshot 2025-04-22 103405](https://github.com/user-attachments/assets/96c811c9-59e4-40eb-af58-df581d8d42ae)
 ![Screenshot 2025-04-22 at 10 32 48_27790201](https://github.com/user-attachments/assets/55b0e5b0-1893-485b-89bc-adef4bc199d7)
-### Name:KISHORE M
+### Name:  KISHORE M
 
-### Register Number: 212224040161 
+### Register Number:  212224040161 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
